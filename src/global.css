@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'League Spartan', sans-serif;
+}
+:root{
+    --gradient: linear-gradient(
+      300deg,
+      rgb(149 114 252 ),
+      rgb(226 212 92 ),
+      rgb(67 231 173  )
+    );
+
+
+
+}
+body {
+  background-image: linear-gradient(
+    300deg, black , #221133
+  );
+  color: white;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+h1{
+  background-image: var(--gradient);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
