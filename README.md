@@ -1,7 +1,7 @@
 # API DE FILMES USANDO REACTJS
 
 Montei esse projeto bem básico para consumir uma API Rest com uma lista de filmes.
-
+ 
 ## Site que fornece a API grátis: 
 ```
 https://www.themoviedb.org/
