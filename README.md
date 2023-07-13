@@ -27,7 +27,7 @@ Para acessar a API Restfull do site é necessário criar um token e colocar em u
 Com o Git e o Node.js instalado na sua maquina e a **URL** do projeto em mãos, cria em algum lugar do seu pc uma pasta para criarmos uma copia do repositório, dentro dela abra o **cmd** ou **powershell** e digite os comandos abaixo:
 ```
 git clone https://github.com/WendelGustavo/ApiFilmes-Consumo-React.git
-npm install
+npm i
 npm start
 ```
 
