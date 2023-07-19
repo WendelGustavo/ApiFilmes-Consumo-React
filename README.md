@@ -1,4 +1,4 @@
-# API DE FILMES USANDO REACTJS
+# API DE FILMES CONSUMIDA EM REACTJS 
 
 Montei esse projeto bem básico para consumir uma API Rest com uma lista de filmes.
  
