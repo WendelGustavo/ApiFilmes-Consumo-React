@@ -1,6 +1,6 @@
 # API DE FILMES CONSUMIDA EM REACTJS 
 
-Montei esse projeto bem básico para consumir uma API Rest com uma lista de filmes.
+Montei esse projeto bem básico para consumir uma API Rest com uma lista de filmes. 
  
 ## Site que fornece a API grátis: 
 ```
